@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>Xiaomi Redmi Note 9S</SelectedDevice>
     <ActiveDebugProfile>Xiaomi Redmi Note 9S</ActiveDebugProfile>
+    <DefaultDevice>pixel_2_pie_9_0_-_api_28</DefaultDevice>
   </PropertyGroup>
 </Project>
