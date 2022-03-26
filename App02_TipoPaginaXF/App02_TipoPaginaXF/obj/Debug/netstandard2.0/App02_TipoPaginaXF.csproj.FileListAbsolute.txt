@@ -17,3 +17,6 @@ C:\Users\ingri\source\repos\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPagi
 C:\Users\ingri\source\repos\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\ref\App02_TipoPaginaXF.dll
 C:\Users\ingri\source\repos\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\App02_TipoPaginaXF.pdb
 C:\Users\ingri\source\repos\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\TipoPagina\Carousel\IntroducaoApp.xaml.g.cs
+C:\Users\ingri\source\repos\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\TipoPagina\Navigation\Modal.xaml.g.cs
+C:\Users\ingri\source\repos\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\TipoPagina\Navigation\Pagina1.xaml.g.cs
+C:\Users\ingri\source\repos\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\TipoPagina\Navigation\Pagina2.xaml.g.cs
