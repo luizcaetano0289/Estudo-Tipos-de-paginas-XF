@@ -4,7 +4,7 @@
              x:Class="App02_TipoPaginaXF.TipoPagina.Carousel.TipoPagina1"
              BackgroundColor="LightSkyBlue">
     <ContentPage.Content>
-        <StackLayout  VerticalOptions="CenterAndExpand" >
+        <StackLayout VerticalOptions="CenterAndExpand" >
             <Label Text="Tipo de Página" TextColor="Blue"
                 HorizontalOptions="CenterAndExpand" />
             <Image Source="xamarin.png" />
